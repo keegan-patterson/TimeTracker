@@ -1,7 +1,7 @@
 // Main body of TimeTracker app, currently Hello World
 #include <iostream>
 
-#include "timetracker_config.h"
+#include "timetracker_config.hpp"
 
 int main(int argc, char* argv[]){
     // report version
