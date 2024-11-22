@@ -1,0 +1,2 @@
+#define TimeTracker_VERSION_MAJOR @TimeTracker_VERSION_MAJOR@
+#define TimeTracker_VERSION_MINOR @TimeTracker_VERSION_MINOR@
